@@ -28,7 +28,7 @@ img {
 	position: absolute;
 	z-index: 5;
 	top: 0;
-	right: 640px;
+	right: 550px;
 	color: white;
 	text-align: center;
 }
@@ -380,36 +380,165 @@ img {
 	.bannertext h1 {
 	font-size: 34px;
 	}
-	
-/*Having problems resizing from line 383 to 411. The
-adjustments are not reflected. No idea why??*/
+
 	.storehours h2 {
-	display: inline-block;
-	margin: 10px;
-	font-size: 16px;
-	font-weight: bolder;
-	font-family: 'Roboto', sans-serif;
-}
+	margin: 7px;
+	font-size: 14px;
+	}
 
 	.btn { 
-	font-size: 10px;
-	font-family: 'Roboto', sans-serif;
-	color: white;
-	border: none;
-	margin: 0px;
-	background-color: transparent;
-	text-decoration: underline;
-}
+	font-size: 8px;
+	}
 
 	#btn2 {
-    background-color: transparent;
-    font-size: 10px;
-    font-family: 'Roboto', sans-serif;
-    color: white;
-    border-style: solid;
-    border-color: white;
-    padding: 8px 40px;
-    margin-top: 15px;
-    border-radius: 5px;
+    font-size: 8px;
+    padding: 6px 30px;
+	}
 }
+
+@media(max-width: 630px){
+	#textContainer {
+	right: 175px;
+	}
+
+	.bannertext h2 {
+	margin-top: 28px;
+	font-size: 12px;
+	}
+
+	.bannertext h1 {
+	font-size: 34px;
+	}
+
+	.storehours h2 {
+	margin: 7px;
+	font-size: 14px;
+	}
+
+	.btn { 
+	font-size: 8px;
+	}
+
+	#btn2 {
+    font-size: 8px;
+    padding: 6px 30px;
+	}
 }
+
+@media(max-width: 616px){
+	#textContainer {
+	right: 175px;
+	}
+
+	.bannertext h2 {
+	margin-top: 30px;
+	font-size: 11px;
+	}
+
+	.bannertext h1 {
+	font-size: 31px;
+	}
+
+	.storehours h2 {
+	margin: 7px;
+	font-size: 13px;
+	}
+
+	.btn { 
+	font-size: 7px;
+	}
+
+	#btn2 {
+    font-size: 7px;
+    padding: 5px 28px;
+	}
+}
+
+@media(max-width: 586px){
+	#textContainer {
+	right: 175px;
+	}
+
+	.bannertext h2 {
+	margin-top: 30px;
+	font-size: 11px;
+	}
+
+	.bannertext h1 {
+	font-size: 31px;
+	}
+
+	.storehours h2 {
+	margin: 7px;
+	font-size: 13px;
+	}
+
+	.btn { 
+	font-size: 7px;
+	}
+
+	#btn2 {
+    font-size: 7px;
+    padding: 5px 28px;
+	}
+}
+
+@media(max-width: 574px){
+	#textContent {
+	right: 155px;
+	}
+
+	.bannertext h1 {
+	font-size: 29px;
+	}
+
+@media(max-width: 557px){
+
+}
+
+	.storehours h2 {
+	margin: 7px;
+	margin-top: 0px;
+	font-size: 13px;
+	}
+
+	.btn { 
+	font-size: 7px;
+	}
+
+	#btn2 {
+    font-size: 7px;
+    padding: 5px 28px;
+	}
+	
+}
+
+@media(max-width: 535px) {
+	.bannertext h2 {
+	margin-top: 30px;
+	font-size: 11px;
+	}
+
+	.bannertext h1 {
+	font-size: 23px;
+	margin-bottom: 15px;
+	padding-bottom: 0px;
+	}
+
+	.storehours h2 {
+	margin: 7px;
+	margin-top: 0px;
+	font-size: 13px;
+	}
+
+	.btn { 
+	font-size: 7px;
+	}
+
+	#btn2 {
+    font-size: 7px;
+    padding: 5px 28px;
+	}
+}
+
+
