@@ -1,7 +1,4 @@
 
-/*font-family: 'Merriweather', serif;
-font-family: 'Roboto', sans-serif;*/
-
 .container {
 	text-align: center;
 }
@@ -69,210 +66,210 @@ img {
 
 @media(max-width: 1651px){
 	#textContainer {
-	right: 605px;
+		right: 605px;
 	}
 }
 
 @media(max-width: 1640px){
 	#textContainer {
-	right: 590px;
+		right: 590px;
 	}
 }
 
 @media(max-width: 1623px){
 	#textContainer {
-	right: 572px;
+		right: 572px;
 	}
 }
 
 @media(max-width: 1580px){
 	#textContainer {
-	right: 553px;
+		right: 553px;
 	}
 
 	.bannertext h2 {
-	font-size: 30px;
+		font-size: 30px;
 	}
 
 	.bannertext h1 {
-	font-size: 57px;
+		font-size: 57px;
 	}
 }
 
 @media(max-width: 1560px){
 	#textContainer {
-	right: 568px;
+		right: 568px;
 	}
 }
 
 @media(max-width: 1524px){
 	#textContainer {
-	right: 546px;
+		right: 546px;
 	}
 }
 
 @media(max-width: 1488px){
 	#textContainer {
-	right: 533px;
+		right: 533px;
 	}
 }
 
 @media(max-width: 1460px){
 	#textContainer {
-	right: 520px;
+		right: 520px;
 	}
 }
 
 @media(max-width: 1434px){
 	#textContainer {
-	right: 504px;
+		right: 504px;
 	}
 }
 
 @media(max-width: 1410px){
 	#textContainer {
-	right: 490px;
+		right: 490px;
 	}
 }
 
 @media(max-width: 1380px){
 	#textContainer {
-	right: 474px;
+		right: 474px;
 	}
 }
 
 @media(max-width: 1350px){
 	#textContainer {
-	right: 462px;
+		right: 462px;
 	}
 }
 
 @media(max-width: 1310px){
 	#textContainer {
-	right: 445px;
+		right: 445px;
 	}
 }
 
 @media(max-width: 1270px){
 	#textContainer {
-	right: 430px;
+		right: 430px;
 	}
 }
 
 @media(max-width: 1225px){
 	#textContainer {
-	right: 414px;
+		right: 414px;
 	}
 }
 
 @media(max-width: 1190px){
 	#textContainer {
-	right: 398px;
+		right: 398px;
 	}
 }
 
 @media(max-width: 1160px){
 	#textContainer {
-	right: 389px;
+		right: 389px;
 	}
 }
 
 @media(max-width: 1150px){
 	img {
-	width: 97%;
-	height: auto;
+		width: 97%;
+		height: auto;
 	}
 
 	#textContainer {
-	right: 370px;
+		right: 370px;
 	}
 }
 
 @media(max-width: 1135px){
 	#textContainer {
-	right: 360px;
+		right: 360px;
 	}
 }
 
 @media(max-width: 1115px){
 	#textContainer {
-	right: 350px;
+		right: 350px;
 	}
 }
 
 @media(max-width: 1095px){
 	#textContainer {
-	right: 335px;
+		right: 335px;
 	}
 }
 
 @media(max-width: 1063px){
 	#textContainer {
-	right: 303px;
+		right: 303px;
 	}
 }
 
 @media(max-width: 1046px){
 	#textContainer {
-	right: 250px;
+		right: 250px;
 	}
 
 	.bannertext h2 {
-	margin-top: 57px;
-	font-size: 22px;
+		margin-top: 57px;
+		font-size: 22px;
 	}
 
 	.bannertext h1 {
-	font-size: 63px;
+		font-size: 63px;
 	}
 }
 
 @media(max-width: 1028px){
 	#textContainer{
-	right: 230px;
+		right: 230px;
 	}
 }
 
 
 @media(max-width: 1004px){
 	.bannertext h2 {
-	margin-top: 53px;
-	font-size: 20px;
+		margin-top: 53px;
+		font-size: 20px;
 	}
 
 	.bannertext h1 {
-	font-size: 60px;
+		font-size: 60px;
 	}
 }
 
 @media(max-width: 971px){
 	.bannertext h1 {
-	font-size: 57px;
+		font-size: 57px;
 	}
 }
 
 @media(max-width: 947px){
 	#textContainer {
-	right: 237px;
+		right: 237px;
 	}
 
 	.bannertext h1 {
-	font-size: 55px;
+		font-size: 55px;
 	}
 }
 
 @media(max-width: 920px){
 	#textContainer {
-	right: 233px;
+		right: 233px;
 	}
 
 	.bannertext h2 {
-	margin-top: 45px;
-	font-size: 18px;
+		margin-top: 45px;
+		font-size: 18px;
 	}
 
 	.bannertext h1 {
-	font-size: 53px;
+		font-size: 53px;
 	}
 }
 
@@ -284,261 +281,395 @@ img {
 
 @media(max-width: 876px){
 	#textContainer {
-	right: 225px;
+		right: 225px;
 	}
+
 	.bannertext h2 {
-	margin-top: 40px;
-	font-size: 18px;
+		margin-top: 40px;
+		font-size: 18px;
 	}
 
 	.bannertext h1 {
-	font-size: 50px;
+		font-size: 50px;
 	}
 }
 
 @media(max-width: 840px){
 	#textContainer {
-	right: 208px;
+		right: 208px;
 	}
 }
 
 @media(max-width: 821px){
 	#textContainer {
-	right: 204px;
+		right: 204px;
 	}
+
 	.bannertext h2 {
-	margin-top: 37px;
-	font-size: 16px;
+		margin-top: 37px;
+		font-size: 16px;
 	}
 
 	.bannertext h1 {
-	font-size: 48px;
+		font-size: 48px;
 	}
 }
 
 @media(max-width: 791px){
 	#textContainer {
-	right: 190px;
+		right: 190px;
 	}
 }
 
 @media(max-width: 737px){
 	#textContainer {
-	right: 190px;
+		right: 190px;
 	}
 
 	.bannertext h2 {
-	margin-top: 32px;
-	font-size: 14px;
+		margin-top: 32px;
+		font-size: 14px;
 	}
 
 	.bannertext h1 {
-	font-size: 40px;
+		font-size: 40px;
 	}
 }
 
 @media(max-width: 713px){
 	#textContainer {
-	right: 210px;
+		right: 210px;
 	}
 
 	.bannertext h2 {
-	margin-top: 28px;
-	font-size: 12px;
+		margin-top: 28px;
+		font-size: 12px;
 	}
 
 	.bannertext h1 {
-	font-size: 36px;
+		font-size: 36px;
 	}
 }
 
 @media(max-width: 658px){
 	#textContainer {
-	right: 197px;
+		right: 197px;
 	}
 
 	.bannertext h2 {
-	margin-top: 28px;
-	font-size: 12px;
+		margin-top: 28px;
+		font-size: 12px;
 	}
 
 	.bannertext h1 {
-	font-size: 34px;
+		font-size: 34px;
 	}
 }
 
 @media(max-width: 649px){
 	#textContainer {
-	right: 197px;
+		right: 197px;
 	}
 
 	.bannertext h2 {
-	margin-top: 28px;
-	font-size: 12px;
+		margin-top: 28px;
+		font-size: 12px;
 	}
 
 	.bannertext h1 {
-	font-size: 34px;
+		font-size: 34px;
 	}
 
 	.storehours h2 {
-	margin: 7px;
-	font-size: 14px;
+		margin: 7px;
+		font-size: 14px;
 	}
 
 	.btn { 
-	font-size: 8px;
+		font-size: 8px;
 	}
 
 	#btn2 {
-    font-size: 8px;
-    padding: 6px 30px;
+	    font-size: 8px;
+	    padding: 6px 30px;
 	}
 }
 
 @media(max-width: 630px){
 	#textContainer {
-	right: 175px;
+		right: 175px;
 	}
 
 	.bannertext h2 {
-	margin-top: 28px;
-	font-size: 12px;
+		margin-top: 28px;
+		font-size: 12px;
 	}
 
 	.bannertext h1 {
-	font-size: 34px;
+		font-size: 34px;
 	}
 
 	.storehours h2 {
-	margin: 7px;
-	font-size: 14px;
+		margin: 7px;
+		font-size: 14px;
 	}
 
 	.btn { 
-	font-size: 8px;
+		font-size: 8px;
 	}
 
 	#btn2 {
-    font-size: 8px;
-    padding: 6px 30px;
+	    font-size: 8px;
+	    padding: 6px 30px;
 	}
 }
 
 @media(max-width: 616px){
 	#textContainer {
-	right: 175px;
+		right: 175px;
 	}
 
 	.bannertext h2 {
-	margin-top: 30px;
-	font-size: 11px;
+		margin-top: 30px;
+		font-size: 11px;
 	}
 
 	.bannertext h1 {
-	font-size: 31px;
+		font-size: 31px;
 	}
 
 	.storehours h2 {
-	margin: 7px;
-	font-size: 13px;
+		margin: 7px;
+		font-size: 13px;
 	}
 
 	.btn { 
-	font-size: 7px;
+		font-size: 7px;
 	}
 
 	#btn2 {
-    font-size: 7px;
-    padding: 5px 28px;
+	    font-size: 7px;
+	    padding: 5px 28px;
 	}
 }
 
 @media(max-width: 586px){
 	#textContainer {
-	right: 175px;
+		right: 175px;
 	}
 
 	.bannertext h2 {
-	margin-top: 30px;
-	font-size: 11px;
+		margin-top: 30px;
+		font-size: 11px;
 	}
 
 	.bannertext h1 {
-	font-size: 31px;
+		font-size: 31px;
 	}
 
 	.storehours h2 {
-	margin: 7px;
-	font-size: 13px;
+		margin: 7px;
+		font-size: 13px;
 	}
 
 	.btn { 
-	font-size: 7px;
+		font-size: 7px;
 	}
 
 	#btn2 {
-    font-size: 7px;
-    padding: 5px 28px;
+	    font-size: 7px;
+	    padding: 5px 28px;
 	}
 }
 
-@media(max-width: 574px){
-	#textContent {
-	right: 155px;
+@media(max-width: 575px){
+	#textContainer {
+		right: 155px;
 	}
 
 	.bannertext h1 {
-	font-size: 29px;
+		font-size: 28px;
 	}
+}
+
+@media(max-width: 569px){
+	.bannertext h1{
+		font-size: 26px;
+	}
+
+	.storehours h2 {
+		margin: 7px;
+		margin-top: 0px;
+		font-size: 13px;
+	}
+
+	.btn { 
+		font-size: 7px;
+	}
+
+	#btn2 {
+	    font-size: 6px;
+	    padding: 5px 28px;
+	}
+}
 
 @media(max-width: 557px){
 
-}
-
 	.storehours h2 {
-	margin: 7px;
-	margin-top: 0px;
-	font-size: 13px;
+		margin: 7px;
+		margin-top: 0px;
+		font-size: 13px;
 	}
 
 	.btn { 
-	font-size: 7px;
+		font-size: 7px;
 	}
 
 	#btn2 {
-    font-size: 7px;
-    padding: 5px 28px;
+	    font-size: 7px;
+	    padding: 5px 28px;
 	}
 	
 }
 
-@media(max-width: 535px) {
-	.bannertext h2 {
-	margin-top: 30px;
-	font-size: 11px;
-	}
-
-	.bannertext h1 {
-	font-size: 23px;
-	margin-bottom: 15px;
-	padding-bottom: 0px;
-	}
-
-	.storehours h2 {
-	margin: 7px;
-	margin-top: 0px;
-	font-size: 13px;
-	}
-
-	.btn { 
-	font-size: 7px;
-	}
+@media(max-width: 542px){
 
 	#btn2 {
-    font-size: 7px;
-    padding: 5px 28px;
+	    font-size: 7px;
+	    margin-top: 7px;
+	    padding: 4px 26px;
+	}
+
+}
+
+@media(max-width: 518px) {
+	#textContainer {
+		right: 137px;
 	}
 }
 
+@media(max-width: 500px){
+	.bannertext h1 {
+		font-size: 26px;
+		margin-bottom: 7px;
+	}
+
+	.storehours h2 {
+		margin: 7px;
+		margin-top: 0px;
+		font-size: 13px;
+	}
+}
+
+@media(max-width: 488px){
+	#btn2 {
+   		padding: 2px 23px;
+	}
+}
+
+@media(max-width: 471px){
+	#textContainer {
+		right: 127px;
+	}
+
+	.bannertext h1 {
+		font-size: 24px;
+		margin-bottom: 5px;
+	}
+
+	.storehours h2 {
+		font-size: 11px;
+	}
+
+	.btn { 
+		font-size: 5px;
+	}
+}
+
+
+/*iPhone 6Plus*/
+@media(max-width: 414px){
+	#textContainer {
+		right: 120px;
+	}
+
+	.bannertext h1 {
+	    font-size: 18px;
+	    margin-top: 0px;
+	    margin-bottom: 2px;
+	}
+
+	.bannertext h2 {
+		margin-top: 30px;
+		font-size: 9px;
+	}
+
+	.storehours h2 {
+	    font-size: 7px;
+	    margin: 0px;
+	    padding: 0px;
+	}
+
+	.btn { 
+	    font-size: 3px;
+	    padding: 2px;
+	    padding-top: 0px;
+	}
+
+	#btn2 {
+		margin-top: 0px;
+	    font-size: 5px;
+	    padding: 0px 20px;
+	}
+	
+}
+
+/*iPhone 6*/
+@media(max-width: 375px){
+	#textContainer {
+		right: 115px;
+	}
+
+	.bannertext h1 {
+	    font-size: 15px;
+	    margin-top: 0px;
+	    margin-bottom: 2px;
+	}
+
+	.bannertext h2 {
+		margin-top: 27px;
+		font-size: 8px;
+	}
+}
+
+/*iPhone 5*/
+@media(max-width: 320px){
+	#textContainer {
+    	right: 100px;
+	}
+
+	.bannertext h1 {
+    font-size: 12px;
+    margin-bottom: 0px;
+	}
+
+	.bannertext h2 {
+	    margin-top: 16px;
+	    font-size: 7px;
+	}
+
+	.storehours h2 {
+	    font-size: 5px;
+	}
+
+	.btn { 
+	    font-size: 2px;
+	    padding: 1px;
+	}
+
+	#btn2 {
+    font-size: 3px;
+    padding: 0px 16px;
+	}
+}
 
